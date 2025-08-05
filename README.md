@@ -3,7 +3,7 @@
 ## Conceitos Rápidos
 
 ### Banco de Dados Relacional
-Utiliza tabelas que se relacionam entre si. É ideal para dados bem estruturados e que seguem regras rígidas.  
+Ele Utiliza tabelas que se relacionam entre si. É ideal para dados bem estruturados e que seguem regras rígidas.  
 **Exemplo**: sistemas de escolas, lojas, hospitais.
 <img width="1326" height="598" alt="image" src="https://github.com/user-attachments/assets/03298f13-e927-4c39-92cd-edde7ab8b5b9" />
 
